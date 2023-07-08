@@ -8,6 +8,6 @@ fn main() {
     println!("{}", tup.0);
 }
 
-fn ls(){
+fn ls() {
     println!("Ls");
 }
