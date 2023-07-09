@@ -1,4 +1,4 @@
-use ractixbe::run_server; 
+use ractixbe::run_server;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
